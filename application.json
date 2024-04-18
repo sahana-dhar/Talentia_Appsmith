@@ -1,8 +1,42 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "HOME",
       "isDefault": true
+
+    },
+    {
+      "id": "UI2",
+      "isDefault": false
+    },
+    {
+      "id": "UI3",
+      "isDefault": false
+    },
+    {
+      "id": "UI4",
+      "isDefault": false
+    },
+    {
+      "id": "UI5",
+      "isDefault": false
+    },
+    {
+      "id": "UI6",
+      "isDefault": false
+    },
+    {
+      "id": "UI7",
+      "isDefault": false
+    },
+    {
+      "id": "UI8",
+      "isDefault": false
+    },
+    {
+      "id": "UI1",
+      "isDefault": false
+
     }
   ],
   "viewMode": false,
