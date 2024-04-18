@@ -3,7 +3,6 @@
     {
       "id": "HOME",
       "isDefault": true
-
     },
     {
       "id": "UI2",
@@ -36,7 +35,6 @@
     {
       "id": "UI1",
       "isDefault": false
-
     }
   ],
   "viewMode": false,
