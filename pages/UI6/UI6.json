@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page2",
-    "slug": "page2",
+    "name": "UI6",
+    "slug": "ui6",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 380,
+          "bottomRow": 650,
           "containerStyle": "none",
           "snapRows": 64,
           "parentRowSpace": 1,
@@ -26,17 +26,17 @@
           "leftColumn": 0
         },
         "layoutOnLoadActions": [],
-        "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page2",
+        "id": "UI6",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "661ed5165ec15614796af628_662163a14aada028ef81035f"
+  "gitSyncId": "661ed5165ec15614796af628_6621689f4aada028ef810380"
 }

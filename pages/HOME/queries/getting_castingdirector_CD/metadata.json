@@ -2,12 +2,12 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "agent_money_AGENT",
+    "name": "getting_castingdirector_CD",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/agents/agents/ctrowle3"
+        "url": "web:4000/castingdirector/castingdirector"
       },
       "invalids": [],
       "messages": [],
@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "HOME",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -48,9 +48,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-04-17T03:44:01Z"
+    "createdAt": "2024-04-17T03:38:55Z"
   },
-  "id": "Page1_agent_money_AGENT",
+  "id": "HOME_getting_castingdirector_CD",
   "deleted": false,
-  "gitSyncId": "661ed5165ec15614796af628_661f4581e3939e41d860b94e"
+  "gitSyncId": "661ed5165ec15614796af628_661f444fe3939e41d860b94c"
 }
