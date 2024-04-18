@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "UI7",
-    "slug": "ui7",
+    "name": "Agent- update resume",
+    "slug": "agent-update-resume",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 650,
+          "bottomRow": 980,
           "containerStyle": "none",
           "snapRows": 64,
           "parentRowSpace": 1,
@@ -25,10 +25,21 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [],
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "Agent- update resume_all_agenrts",
+              "name": "all_agenrts",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "UI7",
+        "id": "Agent- update resume",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +50,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "661ed5165ec15614796af628_662168a04aada028ef810383"
+  "gitSyncId": "661ed5165ec15614796af628_662168a24aada028ef810386"
 }

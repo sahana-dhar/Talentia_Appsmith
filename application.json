@@ -25,15 +25,19 @@
       "isDefault": false
     },
     {
-      "id": "UI7",
+      "id": "Agent- cd contact",
       "isDefault": false
     },
     {
-      "id": "UI8",
+      "id": "Agent- update resume",
       "isDefault": false
     },
     {
       "id": "UI1",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
       "isDefault": false
     }
   ],
@@ -48,7 +52,7 @@
   "color": "#EAEDFB",
   "icon": "globe",
   "unpublishedAppLayout": {
-    "type": "FLUID"
+    "type": "TABLET"
   },
   "publishedAppLayout": {
     "type": "FLUID"

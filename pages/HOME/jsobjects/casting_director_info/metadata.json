@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "casting_director_info",
+    "pageId": "HOME",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      },
+      {
+        "name": "JSONForm1",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "HOME_casting_director_info",
+  "deleted": false,
+  "gitSyncId": "661ed5165ec15614796af628_6621719f4aada028ef8103d1"
+}
