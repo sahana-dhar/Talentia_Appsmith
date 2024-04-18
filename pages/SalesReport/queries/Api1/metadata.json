@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "SalesReport",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -50,7 +50,7 @@
     "userPermissions": [],
     "createdAt": "2024-04-17T19:43:31Z"
   },
-  "id": "Page1_Api1",
+  "id": "SalesReport_Api1",
   "deleted": false,
   "gitSyncId": "6620265eb933835545dc4c80_66202663b933835545dc4c83"
 }
