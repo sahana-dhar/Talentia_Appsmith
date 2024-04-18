@@ -3,6 +3,10 @@
     {
       "id": "SalesReport",
       "isDefault": true
+    },
+    {
+      "id": "hiiiii",
+      "isDefault": false
     }
   ],
   "viewMode": false,
