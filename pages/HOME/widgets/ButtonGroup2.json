@@ -16,7 +16,7 @@
     "type": "BUTTON_GROUP_WIDGET",
     "groupButtons": {
         "groupButton1": {
-            "onClick": "{{navigateTo('Agent- cd contact', {}, 'SAME_WINDOW');}}",
+            "onClick": "{{navigateTo('Contact Casting Directors', {}, 'SAME_WINDOW');}}",
             "buttonType": "SIMPLE",
             "iconName": "phone",
             "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -30,7 +30,7 @@
             "isDisabled": false
         },
         "groupButton2": {
-            "onClick": "{{navigateTo('Agent- update resume', {}, 'SAME_WINDOW');}}",
+            "onClick": "{{navigateTo('Update Agent Resume', {}, 'SAME_WINDOW');}}",
             "buttonType": "SIMPLE",
             "iconName": "edit",
             "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
