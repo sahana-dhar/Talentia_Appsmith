@@ -9,8 +9,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 65,
-    "bottomRow": 69,
+    "topRow": 70,
+    "bottomRow": 74,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -20,7 +20,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 12.3125,
     "dynamicTriggerPathList": [],
-    "leftColumn": 7,
+    "leftColumn": 22,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -31,7 +31,7 @@
     "text": "Welcome, Critics",
     "key": "p1nif2afgw",
     "isDeprecated": false,
-    "rightColumn": 23,
+    "rightColumn": 38,
     "textAlign": "CENTER",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "0ac59vfq2f",
@@ -49,11 +49,11 @@
     "isLoading": false,
     "mobileTopRow": 61,
     "responsiveBehavior": "fill",
-    "originalTopRow": 65,
+    "originalTopRow": 70,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 40,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 69,
+    "originalBottomRow": 74,
     "fontSize": "1rem",
     "minDynamicHeight": 4
 }

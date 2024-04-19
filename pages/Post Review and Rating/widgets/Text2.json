@@ -9,8 +9,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 81,
-    "bottomRow": 87,
+    "topRow": 74,
+    "bottomRow": 80,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -20,7 +20,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 13.234375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 9,
+    "leftColumn": 8,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -31,7 +31,7 @@
     "text": "View all your previous reviews, plus your new review right below!",
     "key": "3oa12ta3ie",
     "isDeprecated": false,
-    "rightColumn": 57,
+    "rightColumn": 56,
     "textAlign": "CENTER",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "oysxrdna5a",
@@ -49,11 +49,11 @@
     "isLoading": false,
     "mobileTopRow": 88,
     "responsiveBehavior": "fill",
-    "originalTopRow": 81,
+    "originalTopRow": 74,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 23,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 85,
+    "originalBottomRow": 80,
     "fontSize": "1.25rem",
     "minDynamicHeight": 4
 }

@@ -10,8 +10,8 @@
         "click",
         "submit"
     ],
-    "topRow": 72,
-    "bottomRow": 91,
+    "topRow": 76,
+    "bottomRow": 95,
     "parentRowSpace": 10,
     "type": "BUTTON_GROUP_WIDGET",
     "groupButtons": {
@@ -44,6 +44,22 @@
             "placement": "CENTER",
             "isVisible": true,
             "isDisabled": false
+        },
+        "groupButtonwsiq9ayzeo": {
+            "itemType": "BUTTON",
+            "onClick": "{{navigateTo('FindRole', {}, 'SAME_WINDOW');}}",
+            "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+            "iconName": "zoom-in",
+            "widgetId": "k11rksjctq",
+            "menuItems": {},
+            "index": 2,
+            "label": "Find a Role an Actor Played!",
+            "isVisible": true,
+            "buttonType": "SIMPLE",
+            "buttonVariant": "filled",
+            "id": "groupButtonwsiq9ayzeo",
+            "isDisabled": false,
+            "placement": "CENTER"
         }
     },
     "hideCard": false,
@@ -52,17 +68,19 @@
     "parentColumnSpace": 16.6875,
     "dynamicTriggerPathList": [
         {"key": "groupButtons.groupButton1.onClick"},
-        {"key": "groupButtons.groupButtoncumxvll3eg.onClick"}
+        {"key": "groupButtons.groupButtoncumxvll3eg.onClick"},
+        {"key": "groupButtons.groupButtonwsiq9ayzeo.onClick"}
     ],
-    "leftColumn": 2,
+    "leftColumn": 16,
     "dynamicBindingPathList": [
         {"key": "groupButtons.groupButton1.buttonColor"},
-        {"key": "groupButtons.groupButtoncumxvll3eg.buttonColor"}
+        {"key": "groupButtons.groupButtoncumxvll3eg.buttonColor"},
+        {"key": "groupButtons.groupButtonwsiq9ayzeo.buttonColor"}
     ],
     "key": "jcy7y2x4mm",
     "orientation": "vertical",
     "isDeprecated": false,
-    "rightColumn": 30,
+    "rightColumn": 44,
     "widgetId": "4p48qr6b5e",
     "minWidth": 450,
     "isVisible": true,
@@ -74,9 +92,9 @@
     "mobileTopRow": 68,
     "responsiveBehavior": "fill",
     "childStylesheet": {"button": {"buttonColor": "{{appsmith.theme.colors.primaryColor}}"}},
-    "originalTopRow": 72,
+    "originalTopRow": 76,
     "borderRadius": "1.5rem",
     "mobileLeftColumn": 7,
-    "originalBottomRow": 91,
+    "originalBottomRow": 95,
     "buttonVariant": "SECONDARY"
 }
