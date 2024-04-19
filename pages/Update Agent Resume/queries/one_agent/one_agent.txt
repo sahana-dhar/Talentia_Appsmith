@@ -1,0 +1,4 @@
+{{
+  "First_Name": {{ resume_form.formData.first_name}},
+  "Last_Name": {{ resume_form.formData.last_name}}
+}}

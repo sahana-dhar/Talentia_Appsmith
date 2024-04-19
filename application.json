@@ -25,16 +25,25 @@
       "isDefault": false
     },
     {
-      "id": "UI7",
+      "id": "Contact Casting Directors",
       "isDefault": false
     },
     {
-      "id": "UI8",
+      "id": "Update Agent Resume",
       "isDefault": false
     },
     {
       "id": "UI1",
       "isDefault": false
+    },
+    {
+      "id": "Actor Profile",
+      "isDefault": false
+    },
+    {
+      "id": "Agent Search",
+      "isDefault": false
+
     }
   ],
   "viewMode": false,
@@ -48,10 +57,10 @@
   "color": "#EAEDFB",
   "icon": "globe",
   "unpublishedAppLayout": {
-    "type": "FLUID"
+    "type": "TABLET"
   },
   "publishedAppLayout": {
-    "type": "FLUID"
+    "type": "TABLET"
   },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
