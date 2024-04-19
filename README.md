@@ -14,7 +14,16 @@ Talentia is a web app designed to connect entertainers and agencies in a cohesiv
 
 ###### [![](https://assets.appsmith.com/git-sync/Buttons.svg)](http://localhost:8080/app/talentia-appsmith/home-662179e1602d03280b1d0965?branch=release)
 
-## For information on how to set up and view the locally-hosted app, see our project boilerplate repository.
+# Viewing the app
+## For specific information on how to set up and view the locally-hosted app via Docker, see our project boilerplate repository (link below).
+Once Docker is set up, run the appsmith container on port 8080.
+After you've created or logged into your Appsmith account, click the dropdown arrow next to Create New.
+From this new window, select Import, then Import from Git repository.
+Choose Github and check the box below.
+Generate an SSH key using the following link to our project boilerplate repository: 
+Once done, send the SSH key to dhar.s@northeastern.edu for read approval.
+Lastly, you'll be able to deploy the app after your key has been approved by hovering over the new application Talentia_Appsmith, and clicking Launch. Happy viewing!
+
 
 # Features
 1. ACTORS: Profile Access
