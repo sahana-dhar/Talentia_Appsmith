@@ -43,6 +43,10 @@
     {
       "id": "Agent Search",
       "isDefault": false
+    },
+    {
+      "id": "Delete a Review",
+      "isDefault": false
     }
   ],
   "viewMode": false,
