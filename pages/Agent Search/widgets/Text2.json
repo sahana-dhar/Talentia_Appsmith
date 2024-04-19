@@ -9,8 +9,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 34,
-    "bottomRow": 38,
+    "topRow": 56,
+    "bottomRow": 60,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -20,7 +20,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 12.3125,
     "dynamicTriggerPathList": [],
-    "leftColumn": 5,
+    "leftColumn": 6,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -31,7 +31,7 @@
     "text": "Select and Search for Agents Down Below! Feel Free to Filter Your Searches!",
     "key": "yottgb4768",
     "isDeprecated": false,
-    "rightColumn": 58,
+    "rightColumn": 59,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "i9jb2tg1d5",
@@ -49,11 +49,11 @@
     "isLoading": false,
     "mobileTopRow": 37,
     "responsiveBehavior": "fill",
-    "originalTopRow": 34,
+    "originalTopRow": 56,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 5,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 38,
+    "originalBottomRow": 60,
     "fontSize": "1rem",
     "minDynamicHeight": 4
 }
