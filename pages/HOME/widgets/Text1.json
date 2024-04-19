@@ -1,7 +1,7 @@
 {
     "borderColor": "#18181b",
     "iconSVG": "/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
-    "topRow": 24,
+    "topRow": 23,
     "type": "TEXT_WIDGET",
     "animateLoading": true,
     "overflow": "NONE",
@@ -26,7 +26,7 @@
     ],
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 33,
+    "originalBottomRow": 32,
     "fontSize": "3.75rem",
     "needsErrorInfo": false,
     "mobileBottomRow": 20,
@@ -37,7 +37,7 @@
         "paragraph",
         "label"
     ],
-    "bottomRow": 33,
+    "bottomRow": 32,
     "parentRowSpace": 10,
     "hideCard": false,
     "mobileRightColumn": 36,
@@ -56,7 +56,7 @@
     "renderMode": "CANVAS",
     "mobileTopRow": 16,
     "responsiveBehavior": "fill",
-    "originalTopRow": 24,
+    "originalTopRow": 23,
     "mobileLeftColumn": 20,
     "maxDynamicHeight": 9000,
     "minDynamicHeight": 4

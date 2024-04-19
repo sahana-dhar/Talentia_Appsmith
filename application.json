@@ -25,11 +25,11 @@
       "isDefault": false
     },
     {
-      "id": "Agent- cd contact",
+      "id": "Contact Casting Directors",
       "isDefault": false
     },
     {
-      "id": "Agent- update resume",
+      "id": "Update Agent Resume",
       "isDefault": false
     },
     {
@@ -37,7 +37,11 @@
       "isDefault": false
     },
     {
-      "id": "Page1",
+      "id": "Actor Profile",
+      "isDefault": false
+    },
+    {
+      "id": "Agent Search",
       "isDefault": false
     }
   ],
