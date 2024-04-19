@@ -25,11 +25,11 @@
       "isDefault": false
     },
     {
-      "id": "UI7",
+      "id": "Contact Casting Directors",
       "isDefault": false
     },
     {
-      "id": "UI8",
+      "id": "Update Agent Resume",
       "isDefault": false
     },
     {
@@ -38,6 +38,14 @@
     },
     {
       "id": "FindRole",
+      "isDefault": false
+    },
+    {
+      "id": "Actor Profile",
+      "isDefault": false
+    },
+    {
+      "id": "Agent Search",
       "isDefault": false
     }
   ],
@@ -55,7 +63,7 @@
     "type": "TABLET"
   },
   "publishedAppLayout": {
-    "type": "FLUID"
+    "type": "TABLET"
   },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],

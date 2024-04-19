@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "UI8",
-    "slug": "ui8",
+    "name": "Update Agent Resume",
+    "slug": "update-agent-resume",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 650,
+          "bottomRow": 980,
           "containerStyle": "none",
           "snapRows": 64,
           "parentRowSpace": 1,
@@ -25,10 +25,21 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [],
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "Update Agent Resume_all_agenrts",
+              "name": "all_agenrts",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "UI8",
+        "id": "Update Agent Resume",
         "deleted": false,
         "policies": [],
         "userPermissions": []
