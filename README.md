@@ -10,4 +10,4 @@ This app is built using Appsmith. Turn any datasource into an internal app in mi
 
 ##### You can visit the application using the below link
 
-###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](http://localhost:8080/applications/661ed26a5ec15614796af61f/pages/661ed26a5ec15614796af622) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](http://localhost:8080/applications/661ed26a5ec15614796af61f/pages/661ed26a5ec15614796af622/edit)
+###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ]([http://localhost:8080/applications/661ed26a5ec15614796af61f/pages/661ed26a5ec15614796af622](http://localhost:8080/app/talentia-appsmith/actor-profile-6621e0b6602d03280b1d09e2?branch=release)) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](http://localhost:8080/applications/661ed26a5ec15614796af61f/pages/661ed26a5ec15614796af622/edit)
