@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "UI2",
-    "slug": "ui2",
+    "name": "Post Review and Rating",
+    "slug": "post-review-and-rating",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 380,
+          "bottomRow": 1160,
           "containerStyle": "none",
           "snapRows": 64,
           "parentRowSpace": 1,
@@ -25,10 +25,21 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [],
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "Post Review and Rating_GetCriticActor",
+              "name": "GetCriticActor",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "UI2",
+        "id": "Post Review and Rating",
         "deleted": false,
         "policies": [],
         "userPermissions": []

@@ -5,7 +5,7 @@
       "isDefault": true
     },
     {
-      "id": "UI2",
+      "id": "Post Review and Rating",
       "isDefault": false
     },
     {
@@ -33,7 +33,11 @@
       "isDefault": false
     },
     {
-      "id": "UI1",
+      "id": "ReleaseDate",
+      "isDefault": false
+    },
+    {
+      "id": "FindRole",
       "isDefault": false
     }
   ],
@@ -46,9 +50,9 @@
     }
   },
   "color": "#EAEDFB",
-  "icon": "globe",
+  "icon": "diamond",
   "unpublishedAppLayout": {
-    "type": "FLUID"
+    "type": "TABLET"
   },
   "publishedAppLayout": {
     "type": "FLUID"

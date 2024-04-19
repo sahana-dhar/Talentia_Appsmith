@@ -1,0 +1,6 @@
+{
+	"ActorUser": {{PostReview.formData.ActorUser}},
+	"CriticUser": {{PostReview.formData.CriticUser}},
+	"Review": {{PostReview.formData.Review}},
+	"Rating": {{PostReview.formData.Rating}}
+}

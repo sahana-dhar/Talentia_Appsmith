@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "UI1",
-    "slug": "ui1",
+    "name": "ReleaseDate",
+    "slug": "releasedate",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 650,
+          "bottomRow": 1010,
           "containerStyle": "none",
           "snapRows": 64,
           "parentRowSpace": 1,
@@ -25,10 +25,23 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [],
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "ReleaseDate_GetReleaseDate",
+              "name": "GetReleaseDate",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "DateForm.formData.Title"
+              ],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "UI1",
+        "id": "ReleaseDate",
         "deleted": false,
         "policies": [],
         "userPermissions": []
