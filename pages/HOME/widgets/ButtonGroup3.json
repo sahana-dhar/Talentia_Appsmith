@@ -17,6 +17,7 @@
     "groupButtons": {
         "groupButtoncumxvll3eg": {
             "itemType": "BUTTON",
+            "onClick": "{{navigateTo('ReleaseDate', {}, 'SAME_WINDOW');}}",
             "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
             "iconName": "notifications-updated",
             "widgetId": "j0dgjiq2xq",
@@ -31,6 +32,7 @@
             "placement": "CENTER"
         },
         "groupButton1": {
+            "onClick": "{{navigateTo('Post Review and Rating', {}, 'SAME_WINDOW');}}",
             "buttonType": "SIMPLE",
             "iconName": "heart",
             "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -48,7 +50,10 @@
     "mobileRightColumn": 31,
     "animateLoading": true,
     "parentColumnSpace": 16.6875,
-    "dynamicTriggerPathList": [],
+    "dynamicTriggerPathList": [
+        {"key": "groupButtons.groupButton1.onClick"},
+        {"key": "groupButtons.groupButtoncumxvll3eg.onClick"}
+    ],
     "leftColumn": 2,
     "dynamicBindingPathList": [
         {"key": "groupButtons.groupButton1.buttonColor"},
