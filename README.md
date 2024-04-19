@@ -14,6 +14,16 @@ Talentia is a web app designed to connect entertainers and agencies in a cohesiv
 
 ###### [![](https://assets.appsmith.com/git-sync/Buttons.svg)](http://localhost:8080/app/talentia-appsmith/home-662179e1602d03280b1d0965?branch=release)
 
+# Features
+1. ACTORS: Profile Access
+2. ACTORS: Agent Search
+3. ACTORS: Report a review
+4. AGENTS: Find a casting director's contact
+5. AGENTS: Update resume
+6. CRITICS: Post a review/rating for an actor
+7. CRITICS: Find a release date for upcoming media
+8. CRITICS: Find a role an actor has played
+
 # Viewing the app
 ## For specific information on how to set up and view the locally-hosted app via Docker, see our project repository (https link below).
 1. Once Docker is set up, run the appsmith container on port 8080.
@@ -25,13 +35,3 @@ Talentia is a web app designed to connect entertainers and agencies in a cohesiv
 7. Lastly, you'll be able to deploy the app after your key has been approved by hovering over the new application Talentia_Appsmith, and clicking Launch. Happy viewing!
 
 If you need specific instructions to set up Docker, check the README.md file in https://github.com/sahana-dhar/23f-project-boilerplate.
-
-# Features
-1. ACTORS: Profile Access
-2. ACTORS: Agent Search
-3. ACTORS: Report a review
-4. AGENTS: Find a casting director's contact
-5. AGENTS: Update resume
-6. CRITICS: Post a review/rating for an actor
-7. CRITICS: Find a release date for upcoming media
-8. CRITICS: Find a role an actor has played
